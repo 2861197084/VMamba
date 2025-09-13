@@ -98,7 +98,7 @@ Designing computationally efficient network architectures persists as an ongoing
 
 
 ### **Object Detection on COCO**
-  
+
 | Backbone | #params | FLOPs | Detector | bboxAP | bboxAP50 | bboxAP75 | segmAP | segmAP50 | segmAP75 | configs/logs/ckpts |
 | :---: | :---: | :---: | :---: | :---: | :---: |:---: |:---: |:---: |:---: |:---: |
 | Swin-T | 48M | 267G | MaskRCNN@1x | 42.7 |65.2 |46.8 |39.3 |62.2 |42.2 |-- |
